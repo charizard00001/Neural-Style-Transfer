@@ -25,7 +25,7 @@ This application uses a pre-trained VGG19 model to extract content and style fea
 
 You can access the deployed version of the app using the following link:
 
-[Neural Style Transfer App](https://your-deployment-link.com)
+[Neural Style Transfer App](https://neural-style-transfer-charizard001.streamlit.app/)
 
 ## Video Demo
 
@@ -86,50 +86,20 @@ The model consists of the following key components:
 
 Here are some examples of content images, style images, and the resulting stylized images:
 
-### Content Image
-![Content Image](content/content1.jpg)
-
-### Style Image
-![Style Image](style/style1.jpg)
+### Stylized Image
+![Stylized Image](results/result_2.jpg)
 
 ### Stylized Image
-![Stylized Image](results/result1.jpg)
-
-### Content Image
-![Content Image](content/content2.jpg)
-
-### Style Image
-![Style Image](style/style2.jpg)
+![Stylized Image](results/result_3.jpg)
 
 ### Stylized Image
-![Stylized Image](results/result2.jpg)
-
-### Content Image
-![Content Image](content/content2.jpg)
-
-### Style Image
-![Style Image](style/style2.jpg)
+![Stylized Image](results/result_4.jpg)
 
 ### Stylized Image
-![Stylized Image](results/result2.jpg)
-
-### Content Image
-![Content Image](content/content2.jpg)
-
-### Style Image
-![Style Image](style/style2.jpg)
+![Stylized Image](results/result_1.jpg)
 
 ### Stylized Image
-![Stylized Image](results/result2.jpg)
-
-### Content Image
-![Content Image](content/content2.jpg)
-
-### Style Image
-![Style Image](style/style2.jpg)
-
-### Stylized Image
-![Stylized Image](results/result2.jpg)
+![Stylized Image](results/result_5.jpg)
 
 ## Conclusion
 
