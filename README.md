@@ -31,7 +31,7 @@ You can access the deployed version of the app using the following link:
 
 Watch the video demo to see the app in action:
 
-[![Watch the video](video_thumbnail.jpg)](https://www.youtube.com/watch?v=your_video_demo_link)
+[Watch the video](https://www.youtube.com/watch?v=ZNvfwTfchpM)
 
 
 ## Features
@@ -120,7 +120,3 @@ This project utilizes the following resources and libraries:
 - [TensorFlow](https://www.tensorflow.org/)
 - [Streamlit](https://www.streamlit.io/)
 - [VGG19 model](https://keras.io/api/applications/vgg/)
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
